@@ -12,4 +12,7 @@
     "" : ""
 
   }
+  "Logging" :{
+  "logback configuration" : "https://logback.qos.ch/manual/configuration.html"
+  }
 }
