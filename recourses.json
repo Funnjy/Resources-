@@ -4,7 +4,7 @@
     "Spring-boot consuming soap" : "https://spring.io/guides/gs/consuming-web-service/",
     "MARSHALLING JAXB ENTITIES INTO SOAP WRAPPERS" : "http://adamish.com/blog/archives/707",
     "XML annotation package-info.java" : "http://blog.bdoughan.com/2011/11/jaxb-and-namespace-prefixes.html",
-    "" : "",
+    "XML annotation additional info" : "http://hwellmann.blogspot.com/2011/03/jaxb-marshalling-with-custom-namespace.html",
     "" : "",
     "" : "",
     "" : "",
@@ -12,7 +12,7 @@
     "" : ""
 
   }
-  "Logging" :{
+  "Logging": {
   "logback configuration" : "https://logback.qos.ch/manual/configuration.html"
   }
 }
